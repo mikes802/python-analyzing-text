@@ -14,3 +14,5 @@ I used the following to complete this project:
 10. `String slicing`, the `append` method for lists, and the `join` method for converting between the two
 11. A `zip` object to pass to the `dict()` constructor to create a dictionary
 12. `Docstrings` to clearly document the attributes, methods, and properties of the class and to use with `help`
+
+Click here to see the project 👉 <kbd>[project](/Mike-Analyzing-Text.ipynb)</kbd>
