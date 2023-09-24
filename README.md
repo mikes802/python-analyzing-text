@@ -1,5 +1,5 @@
 # Python Analyzing Text Project
-This is the Python [project](../Mike-Analyzing%20Text.ipynb) I submitted for my Python course through Central Michigan University. This was done using JupyterLab and returns statistical information about text from either a URL source, text file from a given path, or a string of text.
+This is the Python [project](../Mike-Analyzing-Text.ipynb) I submitted for my Python course through Central Michigan University. This was done using JupyterLab and returns statistical information about text from either a URL source, text file from a given path, or a string of text.
 
 I used the following to complete this project:
 1. Private attributes within the TextAnalyzer class to prevent direct access from outside the class
